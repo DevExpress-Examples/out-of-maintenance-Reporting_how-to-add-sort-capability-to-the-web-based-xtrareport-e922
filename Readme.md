@@ -3,7 +3,7 @@
 
 * **[ProductsReport.cs](./CS/App_Code/ProductsReport.cs) (VB: [ProductsReport.vb](./VB/App_Code/ProductsReport.vb))**
 * [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to add sort capability to the web based XtraReport
 
