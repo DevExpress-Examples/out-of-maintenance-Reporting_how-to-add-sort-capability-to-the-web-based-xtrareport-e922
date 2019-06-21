@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to add sort capability to the web based XtraReport
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e922/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to add, and force to work, sorting option buttons to the header area of the web based report. Some key points of this example:</p>
